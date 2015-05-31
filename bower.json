@@ -1,0 +1,22 @@
+{
+  "name": "poco-portfolio",
+  "description": "Web development 101 class portfolio project",
+  "version": "0.0.0",
+  "main": "index.html",
+  "authors": [
+    "POCO"
+  ],
+  "license": "MIT",
+  "homepage": "pocostud.io",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "jquery-ui": "~1.11.4"
+  }
+}

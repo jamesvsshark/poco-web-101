@@ -1,0 +1,6 @@
+Goal for this module:
+
+Explain basic HTML, how web works.
+Open text editor.
+Explain doctype(s), explain tags, what goes in head, what goes in body, etc...
+Show a blank html page with proper formating, build off of this.

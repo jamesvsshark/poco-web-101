@@ -1,0 +1,10 @@
+Module goal:
+
+Tags in the body:
+    nav
+    div
+    section
+Talk about comments,
+
+main goal is to have a skelton of all major semantic peices outlined with image(s) of names on the page
+

@@ -3,3 +3,11 @@
  Build instruction:  bower install
 
  Web development 101 class portfolio project
+
+
+
+Plan:
+
+Stage 1:
+
+

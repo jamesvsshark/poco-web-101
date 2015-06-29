@@ -4,10 +4,10 @@
 
 
 Modules Included:
- Markup : * Introduction to Web Development
-          * HTML
-          * CSS
-          * JS
+ * Introduction to Web Development
+ * HTML
+ * CSS
+ * JS
  
  Learn more about our lesson plan and learning objectives in each module found in the 'modules' directory
  

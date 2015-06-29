@@ -1,14 +1,14 @@
 ## Module 2 - HTML ##
 
-Plan and learning outcomes:
-    Markup : * Setup Code Academy account
-             * Tags
-             * Doctype and body tags
-             * Container elements
-             * Text elements
-             * Footer
-             * Q&A
-    
+Plan and learning outcomes: 
+    * Setup Code Academy account
+    * Tags
+    * Doctype and body tags
+    * Container elements
+    * Text elements
+    * Footer
+    * Q&A
+        
     
 module#2 html		est 60-90 min
 

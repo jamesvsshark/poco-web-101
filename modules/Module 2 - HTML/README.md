@@ -1,6 +1,7 @@
 ## Module 2 - HTML ##
 
 Plan and learning outcomes: 
+
     * Setup Code Academy account
     * Tags
     * Doctype and body tags

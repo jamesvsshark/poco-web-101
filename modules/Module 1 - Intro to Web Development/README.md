@@ -1,6 +1,7 @@
 ## Module 1 - Intro to web development ##
 
 Plan and learning outcomes:    
+
     * What a web developer does?
     * Introduction
     * Preview Project

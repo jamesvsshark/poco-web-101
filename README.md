@@ -3,6 +3,7 @@
 Join team POCO this Summer for a web development 101 course and learn about HTML, CSS and JavaScript while developing your online portfolio and resume that will help you land your first web developer job!
 
 Modules Included:
+
     * Introduction to Web Development
     * HTML
     * CSS

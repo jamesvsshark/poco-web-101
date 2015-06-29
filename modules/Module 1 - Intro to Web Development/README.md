@@ -1,14 +1,13 @@
-#Module 1 - Intro to web development
+## Module 1 - Intro to web development ##
 
-Plan and learning outcomes:
-    What a web developer does?
-    Introduction
-    Preivew Project
-    "Hello, World!" (in Code Academy)
-    How web works?
-    Client vs Server
-    
-    
+Plan and learning outcomes:    
+ Markup : * What a web developer does?
+          * Introduction
+          * Preview Project
+          * "Hello, World!" (in Code Academy)
+          * How web works?
+          * Client vs Server
+     
     
 Module #1	Into to web development		est 20-30 min
 

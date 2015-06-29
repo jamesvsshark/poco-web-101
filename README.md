@@ -1,13 +1,18 @@
 # poco-web-101
 
- Build instruction:  bower install
-
- Web development 101 class portfolio project
+Join team POCO this Summer for a web development 101 course and learn about HTML, CSS and JavaScript while developing your online portfolio and resume that will help you land your first web developer job!
 
 
-
-Plan:
-
-Stage 1:
-
-
+Modules Included:
+ Introduction to Web Development
+ HTML
+ CSS
+ JS
+ 
+ Learn more about our lesson plan and learning objectives in each module found in the 'modules' directory
+ 
+ 
+ Cheers,
+ 
+ POCO
+ pocostud.io
